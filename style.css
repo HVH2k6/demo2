@@ -117,6 +117,7 @@ body{
     row-gap: 20px;
   }
   .image-item-content img{
+      /* object-position: top; */
     height: 250px;
   }
   .footer{
