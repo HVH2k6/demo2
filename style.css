@@ -116,9 +116,7 @@ body{
   grid-template-columns: repeat(1, minmax(0, 1fr));
     row-gap: 20px;
   }
-  #crop{
-    object-position: top;
-  }
+  
   .image-item-content img{
     
     height: 550px;
